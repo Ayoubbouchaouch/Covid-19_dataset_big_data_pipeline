@@ -1,0 +1,2 @@
+covid-19 dataset : https://api.covid19api.com/summary
+dataset on 3rd july : https://s3.amazonaws.com/hackerday.bigdata/113/dataset_july3rd.json
